@@ -1,3 +1,11 @@
+# sdbuildR 1.0.7
+
+# sdbuildR 1.0.6
+
+* Fixed error in finding Julia installation 
+
+* Simulations in Julia are now ensured to stop at exact simulation times, which removes unexpected results created by numerical errors in the solver (using tstops argument in solve()) 
+
 # sdbuildR 1.0.5
 
 # sdbuildR 1.0.4

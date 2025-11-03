@@ -1,6 +1,6 @@
 Package: sdbuildR
 Title: Easily Build, Simulate, and Visualise Stock-and-Flow Models
-Version: 1.0.5
+Version: 1.0.7
 Date: 2025-10-23
 Authors@R: 
     person(given = "Kyra Caitlin", family = "Evers", 
@@ -31,9 +31,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 License: GPL (>= 3)
 NeedsCompilation: no
-Packaged: 2025-10-24 13:23:48 UTC; kevers1
+Packaged: 2025-11-02 22:57:30 UTC; kevers1
 Author: Kyra Caitlin Evers [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0001-6890-3482>)
 Maintainer: Kyra Caitlin Evers <kyra.c.evers@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-10-29 19:50:02 UTC
+Date/Publication: 2025-11-03 08:20:06 UTC
