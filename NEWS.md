@@ -1,3 +1,12 @@
+# sdbuildR 1.0.8
+
+## Minor improvements and bug fixes
+
+* Fixed bug in replacing scientifically formatted numbers
+* Fixed bug in comparing Julia versions
+* Added alias "sigmoid" for logistic function
+* Created constructor and validator for class sdbuildR_sim to improve consistency in output
+
 # sdbuildR 1.0.7
 
 # sdbuildR 1.0.6
